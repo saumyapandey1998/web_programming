@@ -1,0 +1,49 @@
+web_programming
+			{
+			font-size:80%;
+			margin:0.5em;
+			font-family: Verdana;
+			display:block;
+			}
+hotel_section {
+			display:block;
+			border: 1px solid silver;
+			margin:0.5em;
+			padding:0.5em;
+			background-color:whitesmoke;
+			}
+title {
+	display:block;
+	font-weight:bolder;
+	text-align:center;
+	font-size:30px;
+	background-color: powderblue;
+	color: black;
+
+	}
+name, topic1, topic2, topic3, topic4, topic5{
+								display:block;
+								text-align:center;
+								background: khaki;
+								}
+name {
+	color: darkcyan;
+	text-decoration: underline ;
+	font-weight:bolder;
+	font-size:20px;
+	}
+topic1 {
+	color:green
+	}
+topic2 {
+	color:brown
+	}
+topic3 {
+	color:blue
+	}
+topic4 {
+	color:orange
+	}
+	topic5 {
+		color: red;
+	}

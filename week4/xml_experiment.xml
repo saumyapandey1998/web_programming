@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_experiment.css"?>
+<web_programming>
+	<title>Web Programming Lab Experiment 5</title>
+	<hotel_section>
+		<name>Types ofRooms</name>
+		<topic1>Single</topic1>
+		<topic2>Double</topic2>
+		<topic3>Deluxe</topic3>
+		<topic4>Suit</topic4>
+	</hotel_section>
+	<hotel_section>
+		<name>Amenities/Services</name>
+		<topic1>Airport Shuttle</topic1>
+		<topic2>Room Service</topic2>
+		<topic3>Restaurant</topic3>
+		<topic4>Free Parking</topic4>
+		<topic5>Free Wifi </topic5>
+	</hotel_section>
+	<hotel_section>
+		<name>Locations</name>
+		<topic1>Pune</topic1>
+		<topic2>Delhi</topic2>
+		<topic3>Lonavala</topic3>
+		<topic4>Kerala</topic4>
+	</hotel_section>
+
+</web_programming>
